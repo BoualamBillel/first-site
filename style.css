@@ -44,6 +44,8 @@ h2 {
 }
 
 footer {
-    background-image: url(https://download.logo.wine/logo/GitHub/GitHub-Logo.wine.png);
+    background: rgb(218, 47, 47);
+    width: 100%;
+    padding: 150px;
 }
-
+ 
