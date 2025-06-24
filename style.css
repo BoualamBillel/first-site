@@ -1,6 +1,49 @@
+h1 {
+    text-align: center;
+}
+
+.image-container {
+    text-align: center;
+
+}
+
 body {
-  background-color: rebeccapurple;
+    margin: 0;
+    padding: 0;
 }
+
 header {
-    background-color: white;
+    background: rgb(218, 47, 47);
+    width: 100%;
+    padding: 10px
 }
+
+.oswald {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: larger;
+}
+
+body {
+    background-color: black;
+    color: aliceblue;
+    
+}
+
+h2 { 
+    font-size: x-large;
+}
+
+.Caprasimo {
+    font-family: "Caprasimo", serif;
+    font-weight: weight;
+    font-style: normal;
+
+}
+
+footer {
+    background-image: url(https://download.logo.wine/logo/GitHub/GitHub-Logo.wine.png);
+}
+
